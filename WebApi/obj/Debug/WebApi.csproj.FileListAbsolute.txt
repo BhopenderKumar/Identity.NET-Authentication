@@ -1,0 +1,3 @@
+C:\Users\Bhopender\Downloads\Configuring-ASP.NET-Indentity-master\Configuring-ASP.NET-Indentity-master\CarBusinessSystem\WebApi\obj\Debug\WebApi.csproj.AssemblyReference.cache
+C:\Users\Bhopender\Downloads\Configuring-ASP.NET-Indentity-master\Configuring-ASP.NET-Indentity-master\CarBusinessSystem\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+E:\M\CarBusinessSystem\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
